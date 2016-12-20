@@ -1,0 +1,11 @@
+{
+  "name": "paper_rock",
+  "version": "1.0.0",
+  "description": "Paper-Rock-Scissor Game! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruthiel Trevisan",
+  "license": "ISC"
+}
